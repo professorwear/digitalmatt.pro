@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://digitalmatt.pro/</loc>
+    <loc>/</loc>
     <lastmod>2024-05-06T18:10:38-07:00</lastmod>
   </url><url>
-    <loc>https://digitalmatt.pro/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-05-06T18:10:38-07:00</lastmod>
   </url><url>
-    <loc>https://digitalmatt.pro/index-about/</loc>
+    <loc>/index-about/</loc>
   </url><url>
-    <loc>https://digitalmatt.pro/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://digitalmatt.pro/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
