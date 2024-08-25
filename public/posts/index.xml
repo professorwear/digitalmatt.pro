@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Matthew</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://digitalmatt.pro/posts/</link>
     <description>Recent content in Posts on Matthew</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 May 2024 18:10:38 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tools</title>
-      <link>http://localhost:1313/posts/tools/</link>
-      <pubDate>Mon, 06 May 2024 18:10:38 -0700</pubDate>
-      <guid>http://localhost:1313/posts/tools/</guid>
-      <description>Apache Guacamole (Clientless remote desktop gateway) Supporting standard remote protocols like VNC, RDP, and SSH.&#xA;https://guacamole.apache.org/ Google&amp;rsquo;s Dig webapp (DNS lookup) Tool for interrogating DNS name servers.&#xA;https://toolbox.googleapps.com/apps/dig/ Obsidian Flexible writing application using markdown, a non-propietary language.&#xA;https://obsidian.md/ </description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://digitalmatt.pro/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
