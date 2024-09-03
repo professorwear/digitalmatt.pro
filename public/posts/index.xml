@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Matthew</title>
-    <link>/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Matthew</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 May 2024 18:10:38 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tools</title>
+      <link>http://localhost:1313/posts/tools/</link>
+      <pubDate>Mon, 06 May 2024 18:10:38 -0700</pubDate>
+      <guid>http://localhost:1313/posts/tools/</guid>
+      <description>&lt;h4 id=&#34;apache-guacamole-clientless-remote-desktop-gateway&#34;&gt;Apache Guacamole (Clientless remote desktop gateway)&lt;/h4&gt;&#xA;&lt;p&gt;Supporting standard remote protocols like VNC, RDP, and SSH.&lt;br&gt;&#xA;&lt;a href=&#34;https://guacamole.apache.org/&#34;&gt;https://guacamole.apache.org/&lt;/a&gt;&#xA;&lt;img src=&#34;images/guacamole.png&#34; alt=&#34;Apache Guacamole&#34;&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;googles-dig-webapp-dns-lookup&#34;&gt;Google&amp;rsquo;s Dig webapp (DNS lookup)&lt;/h4&gt;&#xA;&lt;p&gt;Tool for interrogating DNS name servers.&lt;br&gt;&#xA;&lt;a href=&#34;https://toolbox.googleapps.com/apps/dig/&#34;&gt;https://toolbox.googleapps.com/apps/dig/&lt;/a&gt;&#xA;&lt;img src=&#34;images/google-dig.png&#34; alt=&#34;Google Dig &#34;&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;obsidian&#34;&gt;Obsidian&lt;/h4&gt;&#xA;&lt;p&gt;Flexible writing application using markdown, a non-propietary language.&lt;br&gt;&#xA;&lt;a href=&#34;https://obsidian.md/&#34;&gt;https://obsidian.md/&lt;/a&gt;&#xA;&lt;img src=&#34;images/obsidian.png&#34; alt=&#34;Obsidian&#34;&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
