@@ -2,7 +2,6 @@
 title = 'Tools'
 date = 2024-05-06T18:10:38-07:00
 description = 'Things I think are neat.'
-draft = false
 type = 'post'
 tags = ['apps']
 +++
