@@ -9,4 +9,17 @@
 &lt;h4 id="obsidian">Obsidian&lt;/h4>
 &lt;p>Flexible writing application using markdown, a non-propietary language.&lt;br>
 &lt;a href="https://obsidian.md/">https://obsidian.md/&lt;/a>
-&lt;img src="images/obsidian.png" alt="Obsidian">&lt;/p></description></item></channel></rss>
+&lt;img src="images/obsidian.png" alt="Obsidian">&lt;/p>
+&lt;h4 id="kompose">Kompose&lt;/h4>
+&lt;p>Docker compose to Kubernetes/Openshift conversion tool.&lt;br>
+&lt;a href="https://kompose.io/">https://kompose.io/&lt;/a>&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>$ kompose convert -f compose.yaml
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>$ kubectl apply -f .
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>$ kubectl get pods
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>NAME READY STATUS RESTARTS AGE
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>frontend-591253677-5t038 1/1 Running &lt;span style="color:#ae81ff">0&lt;/span> 10s
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>redis-leader-2410703502-9hshf 1/1 Running &lt;span style="color:#ae81ff">0&lt;/span> 10s
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>redis-replica-4049176185-hr1lr 1/1 Running &lt;span style="color:#ae81ff">0&lt;/span> 10s
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;sub>While you can get away without a version tag in your compose.yml file for modern docker ce, you will get a complaint from this tool unless you put in a &lt;code>version:&lt;/code> tag&lt;/sub>&lt;/p></description></item></channel></rss>
