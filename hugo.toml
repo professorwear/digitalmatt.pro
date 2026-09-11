@@ -1,8 +1,8 @@
 baseURL = 'https://digitalmatt.pro/'
 defaultContentLanguage = 'en'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Matthew'
-theme = 'gokarna'
+theme = 'gokarna-hugo'
 enableRobotsTXT = true
 
 [menu]
